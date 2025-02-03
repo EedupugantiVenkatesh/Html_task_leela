@@ -1,0 +1,67 @@
+
+
+body {
+	background-color: #f2f2f2;
+	font-family: Arial, sans-serif;
+}
+
+.birthday-container {
+	background-color: #ffeb3b;
+	padding: 20px;
+	border: 1px solid #ccc;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin: 50px auto;
+	width: 50%;
+	text-align: center;
+}
+
+#title {
+	font-size: 36px;
+	color: #333;
+}
+
+#cake-image {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin: 20px;
+}
+
+#balloons-image {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin: 20px;
+}
+
+#message {
+	font-size: 18px;
+	color: #666;
+}
+
+#play-button {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#play-button:hover {
+	background-color: #3e8e41;
+}
+#click-now{
+    
+        background-color: #4CAF50;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+}
+#click-now{
+    background-color: #3e8e41;
+
+}
+
